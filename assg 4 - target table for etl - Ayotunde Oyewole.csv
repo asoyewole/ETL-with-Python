@@ -1,0 +1,19 @@
+CountryCode,Decade,IncompleteWarning,barleyActualYield,RyeActualYield,WheatActualYield,FertilizerKgHa,PesticideKgHa,Inserted_By,Inserted_Date
+CAN,0,N,29.39,22.42,24.40,662.35,10.34,"Ayotunde Oyewole",2023-10-13
+MEX,0,N,25.56,0.00,46.34,699.15,12.69,"Ayotunde Oyewole",2023-10-13
+USA,0,N,33.50,16.93,27.88,1158.92,23.61,"Ayotunde Oyewole",2023-10-13
+CAN,10,N,29.51,24.71,25.29,900.65,16.05,"Ayotunde Oyewole",2023-10-13
+MEX,10,N,23.59,0.00,41.89,843.12,16.34,"Ayotunde Oyewole",2023-10-13
+USA,10,N,33.83,16.27,28.08,1161.95,20.19,"Ayotunde Oyewole",2023-10-13
+CAN,60,Y,16.25,10.60,13.33,152.10,NULL,"Ayotunde Oyewole",2023-10-13
+MEX,60,Y,7.62,0.00,21.28,167.42,NULL,"Ayotunde Oyewole",2023-10-13
+USA,60,Y,18.74,11.87,15.98,553.65,NULL,"Ayotunde Oyewole",2023-10-13
+CAN,70,Y,22.45,15.61,17.98,331.96,NULL,"Ayotunde Oyewole",2023-10-13
+MEX,70,Y,14.54,0.00,33.89,504.76,NULL,"Ayotunde Oyewole",2023-10-13
+USA,70,Y,23.89,15.54,21.09,948.20,NULL,"Ayotunde Oyewole",2023-10-13
+CAN,80,Y,25.64,17.25,18.34,529.01,NULL,"Ayotunde Oyewole",2023-10-13
+MEX,80,Y,18.71,0.00,40.88,889.11,NULL,"Ayotunde Oyewole",2023-10-13
+USA,80,Y,27.21,17.76,24.08,997.97,NULL,"Ayotunde Oyewole",2023-10-13
+CAN,90,N,29.87,19.72,22.70,597.68,8.19,"Ayotunde Oyewole",2023-10-13
+MEX,90,N,20.28,0.00,42.08,728.55,10.71,"Ayotunde Oyewole",2023-10-13
+USA,90,N,31.33,17.07,25.98,1080.69,22.68,"Ayotunde Oyewole",2023-10-13
